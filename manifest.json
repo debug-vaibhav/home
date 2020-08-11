@@ -1,0 +1,36 @@
+{
+    "name": "Vaibhav K",
+    "short_name": "Vabhy.info",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#cb202d",
+    "theme_color": "#9B030F",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/assets/img/brand/icon-16x16.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/assets/img/brand/icon-32x32.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "/assets/img/brand/icon-180x180.png",
+            "type": "image/png",
+            "sizes": "180x180"
+        },
+        {
+            "src": "/assets/img/brand/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/assets/img/brand/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
